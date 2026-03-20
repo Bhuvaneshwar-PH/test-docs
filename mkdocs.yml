@@ -5,7 +5,7 @@ nav:
   - Getting Started: getting-started.md
   - API Reference: api.md
 
-# docs_dir: documentation
+docs_dir: docs
 theme:
   name: material
 plugins:
