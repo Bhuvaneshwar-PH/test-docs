@@ -1,12 +1,17 @@
 site_name: 'example-docs'
 
+docs_dir: docs
+
 nav:
   - Home: index.md
   - Getting Started: getting-started.md
   - API Reference: api.md
 
-docs_dir: docs
 theme:
   name: material
+
 plugins:
   - techdocs-core
+
+repo_url: https://github.com/Bhuvaneshwar-PH/test-docs
+edit_uri: edit/main/docs
